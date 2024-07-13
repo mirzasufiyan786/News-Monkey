@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "T20 World Cup: Hunting for New York City's lost cricket ground",
+            "description": "BBC Sport searches for a significant piece of cricket history on the streets of Manhattan.",
+            "url": "http://www.bbc.co.uk/sport/cricket/videos/c9eegxxpemro",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a4c5/live/23d9cec0-22b0-11ef-baa7-25d483663b8e.jpg",
+            "publishedAt": "2024-06-04T22:37:12.8558573Z",
+            "content": "Hunting for New York City's lost cricket ground. Video, 00:03:15Hunting for New York City's lost cricket ground"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Sadef Ali Kully",
+            "title": "T20 World Cup brings cricket ‘home’ for New York’s South Asian community",
+            "description": "New York’s semi-professional cricketers hope the T20 World Cup will inspire the next generation to play the game.",
+            "url": "https://www.aljazeera.com/sports/2024/6/4/cricket-in-new-york-icc-t20-world-cup-2024-long-island-india-vs-pakistan-match",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/IMG3_sadef_cric-copy-1717421724.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-06-04T19:50:18Z",
+            "content": "Long Island, New York  On a cool Sunday afternoon in May, Anjum Sabar captain of PakAmerica Cricket Club watched on as his team batted against Hawks Cricket Club on a grassy field at Eisenhower Park … [+6775 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
